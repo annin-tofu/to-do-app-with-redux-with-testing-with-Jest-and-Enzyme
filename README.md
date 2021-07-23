@@ -70,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # to-do-app-with-redux-with-testing-with-Jest-and-Enzyme
+
+https://www.npmjs.com/package/check-prop-types
+
+$ npm install --save-dev check-prop-types
