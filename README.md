@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 https://www.npmjs.com/package/check-prop-types
 
 $ npm install --save-dev check-prop-types
+
+01:28
