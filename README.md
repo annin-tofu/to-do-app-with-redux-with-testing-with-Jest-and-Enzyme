@@ -71,10 +71,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # to-do-app-with-redux-with-testing-with-Jest-and-Enzyme
 
-npm i --save-dev enzyme @wojtekmaj/enzyme-adapter-react-17
+## Testing implementation
+
+To run test
+$ yarn test
+
+### to install @wojtekmaj/enzyme-adapter-react-17
+
+$ npm i --save-dev enzyme @wojtekmaj/enzyme-adapter-react-17
 
 https://www.npmjs.com/package/check-prop-types
 
+### install check-prop-types
+
 $ npm install --save-dev check-prop-types
 
-01:28
+# Redux
+
+after 01:47
