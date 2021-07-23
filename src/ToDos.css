@@ -1,3 +1,4 @@
-.complete{
-    text-decoration:line-through;
+/* when a Todo is completed, below line is fired, and the Todo gets lined through */
+.complete {
+  text-decoration: line-through;
 }
