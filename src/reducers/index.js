@@ -6,3 +6,8 @@ export default combineReducers({
     listComplete,
     toDos,
 });
+
+// toDos:[
+//       { todo: "Andrew", completed: true },
+//       { todo: "John", completed: false },
+//     ];
